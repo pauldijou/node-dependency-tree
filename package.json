@@ -41,7 +41,7 @@
   "dependencies": {
     "commander": "^2.20.3",
     "debug": "^4.3.1",
-    "filing-cabinet": "pauldijou/node-filing-cabinet#6aec85c86b54217374938988acc8f848de937e0d",
+    "filing-cabinet": "pauldijou/node-filing-cabinet#ddd7b08d37da5824c91d3a592aa2cb595e55fcef",
     "precinct": "^8.0.0",
     "typescript": "^4.3.5"
   },
